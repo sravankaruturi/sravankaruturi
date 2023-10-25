@@ -2,13 +2,15 @@
 
 My Name is <b>Sravan Karuturi</b>
 
-I'm a Senior Systems Engineer working for Osmo/Byjus.
+I work at StriVR as a Software Engineer. 
 
-My work primarily consists of maintaining a systems layer on top of the Unity Game Engine and writing new modules for that layer. 
+My recent projects here include upgrading Unity for our project and working to make a Vision Pro application.
 
-You can find more about it here: http://sravankaruturi.github.io/
+You can find more about my past work here: http://sravankaruturi.github.io/
 
 My personal projects are primarily in C++/C#/Java working on Game Engines and Graphics. You can take a look at some of them in the pinned repos. ( Banana engine )
+
+I recently started a Swift project, a To Do and productivity app called Cortex.
 
 I'm also learned React/NextJs ( and React Native ) and my first major project is my portfolio found at ( www.sravan.gg ) and the source code for that is the react-portfolio repo.
 
