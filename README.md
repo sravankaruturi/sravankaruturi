@@ -14,7 +14,7 @@ I recently started a Swift project, a To Do and productivity app called Cortex.
 
 I'm also learned React/NextJs ( and React Native ) and my first major project is my portfolio found at ( www.sravan.gg ) and the source code for that is the react-portfolio repo.
 
-My other interests include, VR, AI/ML and learning new languages, both programming and natural ( currently French and TypeScript ).
+My other interests include, VR, AI/ML and learning new languages, both programming and natural ( currently French and Swift ).
 
 I'm looking for new oppurtunities so if you have any that you think I'd be a good fit for, please reach out!
 
