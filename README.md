@@ -2,9 +2,9 @@
 
 My Name is <b>Sravan Karuturi</b>
 
-I work at StriVR as a Software Engineer. 
+I work at Strivr as a Software Engineer. 
 
-My recent projects here include upgrading Unity for our project and working to make a Vision Pro application.
+My recent project at work is developing an application for the Apple Vision Pro to deliver 3D immersive Learning for a major bank. I wrote two versions of the app, one in Swift for the first 6 months, and one in Unity + Swift for the last 3 months. 
 
 You can find more about my past work here: http://sravankaruturi.github.io/
 
