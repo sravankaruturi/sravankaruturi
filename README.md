@@ -12,8 +12,6 @@ My personal projects are primarily in C++/C#/Java working on Game Engines and Gr
 
 I recently started a Swift project, a To Do and productivity app called Cortex.
 
-I'm also learning React/NextJs and my first major project is my portfolio found at ( www.sravan.gg ) and the source code for that is the react-portfolio repo.
-
 My other interests include, VR, AI/ML and learning new languages, both programming and natural ( currently French and Swift ).
 
 I'm looking for new oppurtunities so if you have any that you think I'd be a good fit for, please reach out!
