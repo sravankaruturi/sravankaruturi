@@ -14,7 +14,7 @@ I recently started a Swift project, a To Do and productivity app called Cortex.
 
 My other interests include, VR, AI/ML and learning new languages, both programming and natural ( currently French and Swift ).
 
-I'm looking for new oppurtunities so if you have any that you think I'd be a good fit for, please reach out!
+I'm always looking for new oppurtunities so if you have any that you think I'd be a good fit for, please reach out!
 
 <!--
 **sravankaruturi/sravankaruturi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
