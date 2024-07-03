@@ -6,7 +6,7 @@ I work at Strivr as a Software Engineer.
 
 My recent project at work is developing an application for the Apple Vision Pro to deliver 3D immersive Learning for a major bank. I wrote two versions of the app, one in Swift for the first 6 months, and one in Unity + Swift for the last 3 months. 
 
-You can find more about my past work here: http://sravankaruturi.github.io/
+You can find more about my past work here: http://sravan.gg/
 
 My personal projects are primarily in C++/C#/Java working on Game Engines and Graphics. You can take a look at some of them in the pinned repos. ( Banana engine )
 
