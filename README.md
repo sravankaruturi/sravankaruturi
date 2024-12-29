@@ -10,7 +10,7 @@ You can find more about my past work here: http://sravan.gg/
 
 My personal projects are primarily in C++/C#/Swift working on Game Engines and Graphics. You can take a look at some of them in the pinned repos. ( Banana engine )
 
-I recently started a Swift project, a To Do and productivity app called Cortex.
+I recently started a Swift project, a Food Logger app called Flavor Story. 
 
 My other interests include, VR, AI/ML and learning new languages, both programming and natural ( currently French and Swift ).
 
